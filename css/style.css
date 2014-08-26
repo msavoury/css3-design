@@ -1,2 +1,6 @@
-a {
+#wrap {
+	margin-right:10px;
+	margin-left:10px;
+	margin-top:10px;
+	min-height:800px;
 }
