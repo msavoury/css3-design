@@ -1,9 +1,7 @@
 css3-design
 ===========
 
-My repository for practicing css3 techniques and improving design skills
+CSS3 and Design
 
-##TODO##
-- animation
-- 3d
-- canvas
+# Design
+- Proportion
